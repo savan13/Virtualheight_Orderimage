@@ -1,0 +1,26 @@
+{
+    "name": "virtualheight/module-orderimage",
+    "description": "Display Product images on Sales Order View details page at backend",
+    "type": "magento2-module",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Mage2Gen",
+            "email": "info@mage2gen.com"
+        },
+        {
+            "name": "Savan Dholu",
+            "email": "savan@virtualheight.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Virtualheight\\Orderimage\\": ""
+        }
+    }
+}
