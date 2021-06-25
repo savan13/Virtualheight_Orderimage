@@ -49,4 +49,5 @@
 
 
 ## Output
-![Screenshot](https://user-images.githubusercontent.com/38579373/123244940-feb6ab80-d501-11eb-9ea4-0cfc6af0a9af.png)
+![image](https://user-images.githubusercontent.com/38579373/123396433-efe1fe80-d5be-11eb-983e-63e4f62827c9.png)
+
