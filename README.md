@@ -11,7 +11,7 @@
 
 
 ## Main Functionalities
- Display Product images on Sales Order View details page at backend
+ Display Product images on Sales Order View details page at backend in magento 2
 
 ## Installation
 \* = in production please use the `--keep-generated` option
