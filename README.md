@@ -7,6 +7,7 @@
  - [Configuration](#markdown-header-configuration)
  - [Specifications](#markdown-header-specifications)
  - [Attributes](#markdown-header-attributes)
+ - [Output](#markdown-header-output)
 
 
 ## Main Functionalities
