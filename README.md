@@ -1,4 +1,4 @@
-# Mage2 Module Virtualheight Orderimage
+# Module Virtualheight Orderimage
 
     ``virtualheight/module-orderimage``
 
