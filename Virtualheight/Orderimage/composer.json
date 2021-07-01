@@ -2,6 +2,7 @@
     "name": "virtualheight/module-orderimage",
     "description": "Display Product images on Sales Order View details page at backend",
     "type": "magento2-module",
+    "version": "1.0.0",
     "license": "GPL-3.0",
     "authors": [
         {
