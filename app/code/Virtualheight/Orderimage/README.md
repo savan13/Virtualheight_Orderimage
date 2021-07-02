@@ -1,4 +1,4 @@
-# Mage2 Module Virtualheight Orderimage
+# Module Virtualheight Orderimage
 
     ``virtualheight/module-orderimage``
 
@@ -7,10 +7,11 @@
  - [Configuration](#markdown-header-configuration)
  - [Specifications](#markdown-header-specifications)
  - [Attributes](#markdown-header-attributes)
+ - [Output](#markdown-header-output)
 
 
 ## Main Functionalities
- Display Product images on Sales Order View details page at backend
+ Display Product images on Sales Order View details page at backend in magento 2
 
 ## Installation
 \* = in production please use the `--keep-generated` option
@@ -48,4 +49,6 @@
 ## Attributes
 
 
+## Output
+![image](https://user-images.githubusercontent.com/38579373/123396433-efe1fe80-d5be-11eb-983e-63e4f62827c9.png)
 
